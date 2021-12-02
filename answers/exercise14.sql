@@ -11,5 +11,3 @@ mysql>  SELECT *
 | Christopher Smith | 56 Forrest St     | New York     | NULL       | United States |
 +-------------------+-------------------+--------------+------------+---------------+
 5 rows in set (0.00 sec)
-
-

@@ -11,3 +11,10 @@ mysql> SELECT * FROM Students
 | Chris Jenkins  | 4 Allen St        | Wilmington   | 19804      | United States |
 +----------------+-------------------+--------------+------------+---------------+
 4 rows in set (0.01 sec)
+
+
+
+SELECT * FROM Students
+ORDER BY
+Country ASC,
+City ASC;

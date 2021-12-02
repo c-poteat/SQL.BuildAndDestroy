@@ -7,3 +7,5 @@ mysql> SELECT *
 | Mike Smith  | 1 Red St | Toronto | 1897B      | Canada  |
 +-------------+----------+---------+------------+---------+
 1 row in set (0.00 sec)
+
+
